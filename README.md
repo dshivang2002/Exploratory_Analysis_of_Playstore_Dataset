@@ -79,6 +79,9 @@ This Jupyter notebook includes:
 - There are 271 five rated apps on Google Play store
 - Top most is 'CT Brain Interpretation' from 'Family' Category
 
+## Some Visuals 
+<Figure size 1500x1500 with 9 Axes><img width="1489" height="954" alt="image" src="https://github.com/user-attachments/assets/78490fa7-02e0-4590-9adf-3b49353d8e09" />
+
 ## 📦 Requirements
 - pandas
 - numpy
