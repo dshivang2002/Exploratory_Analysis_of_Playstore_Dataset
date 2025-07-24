@@ -1,14 +1,14 @@
-# 🚀  Play Store App Analysis
+# 🚀 Play Store App Analysis :
 
 This repository contains a detailed cleaning process on uncleaned app data and then performed exploratory data analysis (EDA) and feature engineering (FE) process on this cleaned dataset of Android apps from the Google Play Store . On performing operations got some observation and insights of the playstore dataset .
 
 --- 
 
-## 📊 Dataset
+## 📊 Dataset :
 
 The dataset `App_Detailed_cleaned.csv` includes various attributes about Android apps such as category, ratings, number of installs, price, content rating, and more.
 
-## 📚 Feature Information
+## 📚 Feature Information :
 **1. App :-** Name of the App  
 
 **2. Category :-** Category under which the App falls.  
@@ -36,7 +36,7 @@ The dataset `App_Detailed_cleaned.csv` includes various attributes about Android
 **13. Android Ver :-** Minimum Android Version required to run the App. 
 
 --- 
-## 🛠️ Steps include in Jupyter Notebook 
+## 🛠️ Steps include in Jupyter Notebook : 
 
 This Jupyter notebook includes:
 
@@ -71,7 +71,7 @@ This Jupyter notebook includes:
 - Interactive plots with Plotly
 ---
 
-## 📝 Insights  
+## 📝 Insights :  
 - Most popular game is Subway Surfers.
 - Most popular communication app is Hangouts.
 - Most popular productivity app is Google Drive.
@@ -79,10 +79,15 @@ This Jupyter notebook includes:
 - There are 271 five rated apps on Google Play store
 - Top most is 'CT Brain Interpretation' from 'Family' Category
 
-## Some Visuals 
-<Figure size 1500x1500 with 9 Axes><img width="1489" height="954" alt="image" src="https://github.com/user-attachments/assets/78490fa7-02e0-4590-9adf-3b49353d8e09" />
+## 🔖 Some Visuals Of EDA : 
+![Img1](<UnivariateAnalysisImg.png>)
+---
+![Img2](<TopAppEachCategory.png>)
+---
+![Img3](<TopAppCategory.png>)
+---
 
-## 📦 Requirements
+## 📦 Requirements : 
 - pandas
 - numpy
 - matplotlib
